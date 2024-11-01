@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIBotas", "APIBotas.csproj", "{4EF05BF0-4741-4909-A109-9361B77A890B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EF05BF0-4741-4909-A109-9361B77A890B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF05BF0-4741-4909-A109-9361B77A890B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF05BF0-4741-4909-A109-9361B77A890B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF05BF0-4741-4909-A109-9361B77A890B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7F70DBD-501B-4197-AC06-A5C03756E9F6}
+	EndGlobalSection
+EndGlobal
